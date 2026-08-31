@@ -1,16 +1,48 @@
-## Hi there 👋
+# Bhavesh Kumar
 
-<!--
-**bhaveshyadav111/bhaveshyadav111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML engineer in training — building systems that ship, not just notebooks.
 
-Here are some ideas to get you started:
+3rd-year BTech (AI/ML), JECRC University, Jaipur · targeting Applied AI / GenAI-LLM Engineer roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+## Models I've worked with
+
+![SVM](https://img.shields.io/badge/SVM-4B0082?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-2E8B57?style=for-the-badge)
+![Decision Tree](https://img.shields.io/badge/Decision%20Tree-8B4513?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-1E90FF?style=for-the-badge)
+
+## Projects
+
+- **[Loan Approval Prediction](https://www.kaggle.com/code/bhaveshyadav111/loan-approval-project)** — Kaggle classification project. Fixed a preprocessing bug (KNN/Naive Bayes one-hot encoding continuous features instead of scaling) by routing all models through a shared `ColumnTransformer`. Decision Tree ended up best: 93.5% test accuracy, 87.7% test precision.
+- **Heart Disease Prediction** — scikit-learn pipeline (`ColumnTransformer` + `StandardScaler` + `LogisticRegressionCV`), recall-optimized. Caught and fixed data leakage and class imbalance independently. Deployment (FastAPI + Docker) in progress.
+
+## Reach me
+- 🤝 Open to collaborating on ML/AI projects — feel free to reach out!
+- [LinkedIn](https://www.linkedin.com/in/bhavesh-kumar-854b12315)
+- bhaveshydv540@gmail.com
