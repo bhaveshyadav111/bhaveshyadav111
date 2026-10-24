@@ -113,12 +113,6 @@ Built an artificial neural network for a car sales prediction task.
 - FastAPI and production-oriented model serving
 - RAG pipelines, LLM application development, and AI agents
 
-## 📈 What I'm Working Toward
-
-My goal is to become an **Applied AI / GenAI Engineer** who can build reliable systems beyond notebooks — from data processing and model development to API integration, deployment, and evaluation.
-
-I value understanding how systems work, measuring their performance, and improving them through experimentation.
-
 ## 🤝 Connect With Me
 
 - **LinkedIn:** [Bhavesh Kumar](https://www.linkedin.com/in/bhavesh-kumar-854b12315)
