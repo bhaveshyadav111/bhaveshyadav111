@@ -1,6 +1,6 @@
 # Bhavesh Kumar
 
-**AI/ML Engineer in Training | Machine Learning · Deep Learning · GenAI**
+**Applied AI Engineer in Training | Machine Learning · Deep Learning · GenAI · LLMs**
 
 3rd-year B.Tech student in AI/ML at JECRC University, Jaipur. I build machine learning models, experiment with deep learning architectures, and turn models into deployable applications. Currently progressing toward **Applied AI and GenAI/LLM Engineering**.
 
